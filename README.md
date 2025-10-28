@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Ikay 👋🏾  
+Systems Administrator |  Cybersecurity | Cloud Engineer  
+
+I love learning and building solutions that secure and automate infrastructure.  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/michael-nnaji/)  
+🐙 [GitHub](https://github.com/ikay02)
 
 <!--
 **ikay02/ikay02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
